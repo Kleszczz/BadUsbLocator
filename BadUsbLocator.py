@@ -1,4 +1,4 @@
-# Remember to turn of second factor auth and turn of safety app requirements in google account
+# Remember to turn off second factor auth and turn of safety app requirements in google account
 # Author  https://github.com/Kleszcz1337
 import smtplib
 from email.message import EmailMessage 
